@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Wasabi bucket and endpoint configurations
-BUCKET_NAME="qwertyupd"
+BUCKET_NAME="YourBucketName"
 ENDPOINT="https://s3.ap-southeast-2.wasabisys.com"
 PROFILE="wasabi"
 
