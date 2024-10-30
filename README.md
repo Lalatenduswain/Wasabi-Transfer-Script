@@ -109,4 +109,4 @@ If you find this script useful and want to show your appreciation, you can donat
 
 ## Support or Contact
 
-Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/wasabi_transfer/issues).
+Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/Wasabi-Transfer-Script/issues).
